@@ -1,2 +1,2 @@
 # Helper_Function.py
-print_llm_respnse
+print_llm_response
